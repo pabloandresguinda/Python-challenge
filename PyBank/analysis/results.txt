@@ -1,0 +1,7 @@
+Financial Analysis
+----------------------------------
+Total number of months is: 86
+The net total is: 22564198
+Average Change: -8311.11
+Greatest Increase: 1862002 in Aug-16
+Greatest Decrease: -1825558 in Feb-14
